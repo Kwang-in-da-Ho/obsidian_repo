@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasUnlockKeyhole",
       "SiSpring"
     ],
     "recentlyUsedIconsSize": 5,
@@ -22,5 +23,14 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "Master Spring & Spring Boot": "SiSpring"
+  "Master Spring & Spring Boot": "SiSpring",
+  "Secure Coding": "FasUnlockKeyhole",
+  "Master Spring & Spring Boot/Spring AOP.md": {
+    "iconName": null,
+    "inheritanceIcon": "SiSpring"
+  },
+  "Secure Coding/Test File.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasUnlockKeyhole"
+  }
 }

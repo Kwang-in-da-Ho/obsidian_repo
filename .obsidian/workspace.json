@@ -16,30 +16,6 @@
             }
           },
           {
-            "id": "7aeac41cd587d705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secure Coding/Test File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695d66306986a53f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test File 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd052b82ab5286d2",
             "type": "leaf",
             "state": {
@@ -52,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,11 +157,11 @@
   },
   "active": "bd052b82ab5286d2",
   "lastOpenFiles": [
-    "Test File 2.md",
-    "Master Spring & Spring Boot/Spring AOP.md",
-    "Master Spring & Spring Boot",
-    "Secure Coding/Test File.md",
     "README.md",
+    "Secure Coding/Test File.md",
+    "Master Spring & Spring Boot/Spring AOP.md",
+    "Test File 2.md",
+    "Master Spring & Spring Boot",
     "Secure Coding",
     "Test_file"
   ]
