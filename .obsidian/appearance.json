@@ -3,5 +3,6 @@
   "monospaceFontFamily": "Cascadia Mono",
   "enabledCssSnippets": [
     "obsidian_css_snippet"
-  ]
+  ],
+  "cssTheme": "Things"
 }
