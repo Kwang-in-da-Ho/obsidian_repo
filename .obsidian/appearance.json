@@ -4,5 +4,7 @@
   "enabledCssSnippets": [
     "obsidian_css_snippet"
   ],
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter"
 }
