@@ -12,7 +12,7 @@
 * Weaver : the framework that implements AOP
 ### 2. Runtime
 * Join Point 
-	* When pointcut condition is true, the Advice is excecuted*
+	* When pointcut condition is true, the Advice is excecuted
 	* A specific execution of an Advice instance is called Join Point
 
 ## III. Core Annotations
@@ -21,3 +21,24 @@
 * `@AfterReturning` : only after return
 * `@AfterThrowing` : only after exception is thrown
 * `@Around` : before and after method execution
+
+## IV. Best Practice
+### 1. Define Common Pointcut Class
+* Enhance Pointcut reusability by defining a common Pointcut class
+```java
+/** Common Pointcut Class */*
+public class CommonPointCutConfig{
+	@Pointcut("execution(* com.khjin.practice.business.*.*.*(..))")
+	public void businessPackageConfig(){}
+}
+
+/** Aspect */
+@Aspect
+@Configuration
+public class LoggingAspect {
+	@
+}
+
+package com.khjin.practice.buisness.service
+
+```
