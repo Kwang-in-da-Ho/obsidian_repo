@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPython",
       "FasUnlockKeyhole",
       "SiSpring"
     ],
@@ -32,5 +33,6 @@
   "Secure Coding/Test File.md": {
     "iconName": null,
     "inheritanceIcon": "FasUnlockKeyhole"
-  }
+  },
+  "Python": "SiPython"
 }
