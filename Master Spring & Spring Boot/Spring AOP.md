@@ -26,19 +26,38 @@
 ### 1. Define Common Pointcut Class
 * Enhance Pointcut reusability by defining a common Pointcut class
 ```java
-/** Common Pointcut Class */*
-public class CommonPointCutConfig{
-	@Pointcut("execution(* com.khjin.practice.business.*.*.*(..))")
+/** 
+	Common Pointcut Class 
+	- single management point for Pointcuts
+*/
+public class CommonPointcutConfig{
+
+	@Pointcut("execution(* com.khjin.practice.*.*.*(..))")
+	public void allPacakagesConfig(){}
+
+	@Pointcut("execution(* com.khjin.practice.business.*.*(..))")
 	public void businessPackageConfig(){}
+
+	@Pointcut("execution(* com.khjin.practice.data.*.*(..))")
+	public void dataPackageConfig(){}
+
+	//pointcut for any bean that contains the name 'service'
+	@Pointcut("bean(*Service*)")
+	public void allPackageConfigUsingBean(){}
+	
 }
 
 /** Aspect */
 @Aspect
 @Configuration
 public class LoggingAspect {
-	@
+	private Logger LOGGER = LoggerFactory.getLogger(getClass());
+
+	@Before("com.....CommonPointcutConfig.businessPackageConfig()")
+	public void logMethodCallBeforeExcecution(JoinPoint joinPoint){
+		LOGGER.info("Before Aspect - {} is called with arguemnts : {}"
+			, joinPoint
+			, joinPoint.getArgs());
+	}
 }
-
-package com.khjin.practice.buisness.service
-
 ```
