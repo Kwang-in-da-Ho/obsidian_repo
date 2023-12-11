@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
+                "file": "Secure Coding/07. Cookie.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
+                "file": "Secure Coding/07. Cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
+                "file": "Secure Coding/07. Cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secure Coding/04. CSRF(Cross-Site Request Forgery).md"
+                "file": "Secure Coding/07. Cookie.md"
               }
             }
           }
@@ -167,18 +167,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa5e89fdfaedc614",
+  "active": "ab20ebe93e4f0d19",
   "lastOpenFiles": [
-    "Secure Coding/05. 파일 업로드.md",
+    "Secure Coding/09. 계정관리 및 인증관리.md",
+    "Secure Coding/11. 중요정보 관리.md",
+    "Secure Coding/13. 웹 서버 보안 설정.md",
+    "Secure Coding/12. InSecure Coding Style.md",
+    "Secure Coding/Pasted image 20231109172340.png",
+    "Secure Coding/Pasted image 20231109172421.png",
+    "Secure Coding/Pasted image 20231110170527.png",
+    "Secure Coding/10. 접근제어.md",
+    "Secure Coding/08.Session.md",
+    "Secure Coding/07. Cookie.md",
     "Secure Coding/06. 파일 다운로드.md",
     "Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
+    "Secure Coding/05. 파일 업로드.md",
     "Secure Coding/03. XSS(Cross-Site Scripting).md",
     "Secure Coding/02 .Injection.md",
-    "Secure Coding/08.Session.md",
-    "Secure Coding/11. 중요정보 관리.md",
-    "Secure Coding/07. Cookie.md",
-    "Secure Coding/10. 접근제어.md",
-    "Secure Coding/13. 웹 서버 보안 설정.md",
     "Python/Set.md",
     "Python/Python basics.md",
     "Python/List.md",
@@ -187,8 +192,6 @@
     "Python",
     "Secure Coding/01. SW 개발 보안 방법론.md",
     "Secure Coding/00.보안 취약점 및 사례.md",
-    "Secure Coding/Pasted image 20231109172340.png",
-    "Secure Coding/12. InSecure Coding Style.md",
     "Untitled.md",
     "README.md",
     "Secure Coding/Test File.md",
