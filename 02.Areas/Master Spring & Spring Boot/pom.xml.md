@@ -30,4 +30,17 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 ```
 
 ## 3. Inheritence
-* *
+* a parent POM can be used to share common configurations and dependencies among multiple submodules*
+```xml
+<parent>  
+	<groupId>com.example</groupId>  
+	<artifactId>parent-project</artifactId>  
+	<version>1.0.0</version>  
+</parent>
+```
+
+## 4. Dependency tree
+* run following maven command to see the dependency heirarchy in cli
+```shell
+mvn dependency:tree
+```
