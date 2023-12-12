@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc5bded7d2367fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pom.xml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md",
+                "file": "pom.xml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md",
+                "file": "pom.xml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md"
+                "file": "pom.xml.md"
               }
             }
           }
@@ -191,8 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81f4a23eb58e4b7c",
+  "active": "dc5bded7d2367fb6",
   "lastOpenFiles": [
+    "02.Areas/Master Spring & Spring Boot/Maven.md",
+    "pom.xml.md",
     "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "01.Projects/이직하기",
     "Test File 2.md",
@@ -202,7 +216,6 @@
     "02.Areas",
     "01.Projects",
     "02.Areas/Master Spring & Spring Boot/Spring AOP.md",
-    "02.Areas/Master Spring & Spring Boot/Maven.md",
     "02.Areas/Python/List.md",
     "02.Areas/Python/Python basics.md",
     "02.Areas/Python/Tuple.md",
