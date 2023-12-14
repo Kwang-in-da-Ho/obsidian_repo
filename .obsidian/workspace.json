@@ -81,14 +81,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
+                "file": "02.Areas/Docker/Docker X Spring Boot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2098d1fd480e24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
+                "file": "02.Areas/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
+                "file": "02.Areas/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md"
+                "file": "02.Areas/Docker/Docker.md"
               }
             }
           }
@@ -215,16 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab20ebe93e4f0d19",
+  "active": "f2098d1fd480e24e",
   "lastOpenFiles": [
+    "02.Areas/Docker/Docker X Spring Boot.md",
+    "02.Areas/Docker/Docker.md",
+    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "02.Areas/Docker",
     "02.Areas/Master Spring & Spring Boot/Maven.md",
     "02.Areas/Master Spring & Spring Boot/Gradle.md",
-    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "02.Areas/Master Spring & Spring Boot/pom.xml.md",
     "01.Projects/이직하기",
     "Test File 2.md",
-    "Untitled.md",
     "04.Archives",
     "03.Resources",
     "02.Areas",
