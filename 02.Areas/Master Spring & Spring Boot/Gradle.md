@@ -12,9 +12,12 @@
 ### build.gradle
 ```groovy
 plugins {
+	//spring boot support in gradle
 	id 'org.springframework.boot' version '3.1.1'
-	id 'io.spring.dependency-management' version '1.1.0'
-	id 'java'
+	//maven-like dependency management
+	id 'io.spring.dependency-management' version '1.1.0' 
+	//java compilation + testing + building (default layout)
+	id 'java' 
 }
 
 group = 'com.in28minutes'
@@ -36,8 +39,10 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
+// register java task
 tasks.register('helloWorld'){
 	doLast {
+		//java code
 		System.out.println("Hello World");
 	}
 }
@@ -52,3 +57,6 @@ pluginManagement {
 }
 rootProject.name = 'learn-gradle' //project name
 ```
+
+## 3. Structure
+* after build, the result is stored *

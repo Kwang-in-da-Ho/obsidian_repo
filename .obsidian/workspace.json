@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md",
+                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md",
+                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md",
+                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md"
+                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md"
               }
             }
           }
@@ -215,11 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5f8d01de2147ee5",
+  "active": "ab20ebe93e4f0d19",
   "lastOpenFiles": [
-    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
-    "02.Areas/Master Spring & Spring Boot/Gradle.md",
+    "02.Areas/Docker",
     "02.Areas/Master Spring & Spring Boot/Maven.md",
+    "02.Areas/Master Spring & Spring Boot/Gradle.md",
+    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "02.Areas/Master Spring & Spring Boot/pom.xml.md",
     "01.Projects/이직하기",
     "Test File 2.md",
@@ -251,7 +252,6 @@
     "02.Areas/Python",
     "03.Resources/Secure Coding/01. SW 개발 보안 방법론.md",
     "03.Resources/Secure Coding/00.보안 취약점 및 사례.md",
-    "README.md",
     "02.Areas/Master Spring & Spring Boot",
     "03.Resources/Secure Coding",
     "Test_file"

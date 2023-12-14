@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiDocker",
       "SiPython",
       "FasUnlockKeyhole",
       "SiSpring"
@@ -34,5 +35,6 @@
     "inheritanceIcon": "SiSpring"
   },
   "02.Areas/Python": "SiPython",
-  "03.Resources/Secure Coding": "FasUnlockKeyhole"
+  "03.Resources/Secure Coding": "FasUnlockKeyhole",
+  "02.Areas/Docker": "SiDocker"
 }
