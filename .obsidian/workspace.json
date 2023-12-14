@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md",
+                "file": "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5f8d01de2147ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md",
+                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md",
+                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Master Spring & Spring Boot/Maven.md"
+                "file": "02.Areas/Master Spring & Spring Boot/Gradle.md"
               }
             }
           }
@@ -203,11 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc5bded7d2367fb6",
+  "active": "b5f8d01de2147ee5",
   "lastOpenFiles": [
+    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
+    "02.Areas/Master Spring & Spring Boot/Gradle.md",
     "02.Areas/Master Spring & Spring Boot/Maven.md",
     "02.Areas/Master Spring & Spring Boot/pom.xml.md",
-    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "01.Projects/이직하기",
     "Test File 2.md",
     "Untitled.md",
@@ -220,28 +233,27 @@
     "02.Areas/Python/Python basics.md",
     "02.Areas/Python/Tuple.md",
     "02.Areas/Python/Set.md",
-    "02.Areas/Secure Coding/09. 계정관리 및 인증관리.md",
-    "02.Areas/Secure Coding/11. 중요정보 관리.md",
-    "02.Areas/Secure Coding/13. 웹 서버 보안 설정.md",
-    "02.Areas/Secure Coding/12. InSecure Coding Style.md",
-    "02.Areas/Secure Coding/Pasted image 20231109172340.png",
-    "02.Areas/Secure Coding/Pasted image 20231109172421.png",
-    "02.Areas/Secure Coding/Pasted image 20231110170527.png",
-    "02.Areas/Secure Coding/10. 접근제어.md",
-    "02.Areas/Secure Coding/08.Session.md",
-    "02.Areas/Secure Coding/07. Cookie.md",
-    "02.Areas/Secure Coding/06. 파일 다운로드.md",
-    "02.Areas/Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
-    "02.Areas/Secure Coding/05. 파일 업로드.md",
-    "02.Areas/Secure Coding/03. XSS(Cross-Site Scripting).md",
-    "02.Areas/Secure Coding/02 .Injection.md",
+    "03.Resources/Secure Coding/09. 계정관리 및 인증관리.md",
+    "03.Resources/Secure Coding/11. 중요정보 관리.md",
+    "03.Resources/Secure Coding/13. 웹 서버 보안 설정.md",
+    "03.Resources/Secure Coding/12. InSecure Coding Style.md",
+    "03.Resources/Secure Coding/Pasted image 20231109172340.png",
+    "03.Resources/Secure Coding/Pasted image 20231109172421.png",
+    "03.Resources/Secure Coding/Pasted image 20231110170527.png",
+    "03.Resources/Secure Coding/10. 접근제어.md",
+    "03.Resources/Secure Coding/08.Session.md",
+    "03.Resources/Secure Coding/07. Cookie.md",
+    "03.Resources/Secure Coding/06. 파일 다운로드.md",
+    "03.Resources/Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
+    "03.Resources/Secure Coding/05. 파일 업로드.md",
+    "03.Resources/Secure Coding/03. XSS(Cross-Site Scripting).md",
+    "03.Resources/Secure Coding/02 .Injection.md",
     "02.Areas/Python",
-    "02.Areas/Secure Coding/01. SW 개발 보안 방법론.md",
-    "02.Areas/Secure Coding/00.보안 취약점 및 사례.md",
+    "03.Resources/Secure Coding/01. SW 개발 보안 방법론.md",
+    "03.Resources/Secure Coding/00.보안 취약점 및 사례.md",
     "README.md",
-    "Secure Coding/Test File.md",
     "02.Areas/Master Spring & Spring Boot",
-    "02.Areas/Secure Coding",
+    "03.Resources/Secure Coding",
     "Test_file"
   ]
 }
