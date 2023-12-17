@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Docker/Create Docker Image.md",
+                "file": "02.Areas/Docker/Create a Spring Boot Docker Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Docker/Create Docker Image.md",
+                "file": "02.Areas/Docker/Create a Spring Boot Docker Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Docker/Create Docker Image.md",
+                "file": "02.Areas/Docker/Create a Spring Boot Docker Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Docker/Create Docker Image.md"
+                "file": "02.Areas/Docker/Create a Spring Boot Docker Image.md"
               }
             }
           }
@@ -230,7 +230,7 @@
   "active": "f2098d1fd480e24e",
   "lastOpenFiles": [
     "02.Areas/Docker/Docker X Spring Boot.md",
-    "02.Areas/Docker/Create Docker Image.md",
+    "02.Areas/Docker/Create a Spring Boot Docker Image.md",
     "02.Areas/Docker/Docker.md",
     "02.Areas/Docker/Docker Terminology.md",
     "02.Areas/Docker/Docker Basic Commands.md",
