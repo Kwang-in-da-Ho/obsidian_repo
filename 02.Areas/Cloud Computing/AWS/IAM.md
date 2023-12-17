@@ -6,5 +6,6 @@
 		* **Should not be used for main activities**
 ## Best Practices
 https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-### 1. Require huamn users to use temporary credentials when accessing AWS
-* *
+### 1. Require human users to use temporary credentials when accessing AWS
+* Human users should be provided federated access via identity provider
+	* Identity Federation : Identity Provider(IdP) provides authentication for user to a Service Provider(SP)
