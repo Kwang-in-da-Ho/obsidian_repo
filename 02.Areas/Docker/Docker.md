@@ -1,4 +1,4 @@
-## 1. Why Docker?
+# Why Docker?
 * Traditional deployment was too complex and took too long
 	* set up hardware, os, etc...
 * With Docker, you can manage it with just simple commands
@@ -9,16 +9,9 @@
 * Local Machine, Data Center, Cloud
 ### Isolation
 * Containers are isolated from one another
-* 
-### Simplified Deployement
-* OS, Programming language, Hardware does not matter
-* Just create a Docker Image, and run it
 
-### Docker Image
-* contains everything you need to run your app
-* OS, App runtime(JDK, Python, ...), code and dependencies
-### Docker Container
-* You can run it the same way everywhere*
+[[Docker Terminology]]
+[[Docker Basic Commands]]
 
 ## 2. How Does it Work?
 1. Docker Image is downloaded from Docker Registry(Default : Docker Hub)
