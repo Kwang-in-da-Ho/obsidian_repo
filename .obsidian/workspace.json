@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Docker/Docker.md",
+                "file": "02.Areas/Docker/Docker Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Docker/Docker.md",
+                "file": "02.Areas/Docker/Docker Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Docker/Docker.md",
+                "file": "02.Areas/Docker/Docker Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Docker/Docker.md"
+                "file": "02.Areas/Docker/Docker Terminology.md"
               }
             }
           }
@@ -229,8 +229,10 @@
   },
   "active": "f2098d1fd480e24e",
   "lastOpenFiles": [
-    "02.Areas/Python/List.md",
+    "02.Areas/Docker/Docker Basic Commands.md",
+    "02.Areas/Docker/Docker Terminology.md",
     "02.Areas/Docker/Docker.md",
+    "02.Areas/Python/List.md",
     "02.Areas/Docker/Docker X Spring Boot.md",
     "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "02.Areas/Docker",
@@ -263,8 +265,6 @@
     "03.Resources/Secure Coding/03. XSS(Cross-Site Scripting).md",
     "03.Resources/Secure Coding/02 .Injection.md",
     "02.Areas/Python",
-    "03.Resources/Secure Coding/01. SW 개발 보안 방법론.md",
-    "03.Resources/Secure Coding/00.보안 취약점 및 사례.md",
     "02.Areas/Master Spring & Spring Boot",
     "03.Resources/Secure Coding",
     "Test_file"

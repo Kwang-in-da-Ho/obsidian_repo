@@ -21,6 +21,7 @@
 * You can run it the same way everywhere*
 
 ## 2. How Does it Work?
-
+1. Docker Image is downloaded from Docker Registry(Default : Docker Hub)
+2. 
 
 [[Docker X Spring Boot]]
