@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiAmazonaws",
+      "FasCloud",
       "SiDocker",
       "SiPython",
-      "FasUnlockKeyhole",
-      "SiSpring"
+      "FasUnlockKeyhole"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +37,7 @@
   },
   "02.Areas/Python": "SiPython",
   "03.Resources/Secure Coding": "FasUnlockKeyhole",
-  "02.Areas/Docker": "SiDocker"
+  "02.Areas/Docker": "SiDocker",
+  "02.Areas/Cloud Computing": "FasCloud",
+  "02.Areas/Cloud Computing/AWS": "SiAmazonaws"
 }

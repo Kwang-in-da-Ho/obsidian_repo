@@ -6,7 +6,7 @@
 
 ### Docker Build Layer
 * Docker caches every layer (command in Dockerfile) and tries to reuse it
-* Use this feature to fasten up
+* Use this feature to reduce your build time!
 
 
 ## 1. Create `Dockerfile` in Your App
@@ -38,5 +38,14 @@ COPY --from=build /home/app/target/*.jar app.jar
 ENTRYPOINT [ "sh", "-c", "java -jar /app.jar" ]container launch
 ```
 
-## 2. Build Project
-## 3. Run `docker build`
+## 2. Run `docker build`
+
+## Spring Boot  Maven Plugin
+* Provides Spring Boot support in Apache Maven
+### Commands
+* `mvn spring-boot:repackage`
+* `mvn spring-boot:run`
+* `mvn spring-boot:start`*
+* `mvn spring-boot:build-image` : Build a Docker Image
+	* provides very efficient image build
+	* requires **Java 17+** versions to use
