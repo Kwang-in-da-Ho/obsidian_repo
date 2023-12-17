@@ -4,23 +4,31 @@
 * Entire Build process should happen in the image build
 * In multistage build, for base images in FROM clause, use separate images for each stage that serve different purposes
 
-### Docker Layer
-* each stage has layer*
+### Docker Build Layer
+* Docker caches every layer (command in Dockerfile) and tries to reuse it
+* Use this feature to fasten up
+
 
 ## 1. Create `Dockerfile` in Your App
 * The Dockerfile should be saved in your app's root directory*
 * Dockerfile sample
 * 
 ```Dockerfile
-# Stage 1. All 
+# Stage 1. All the important things that do not change and are reused througut build process
 FROM maven:3.8.6-openjdk-18-slim AS build
 WORKDIR /home/app
 
+# Stage 2. Copy the files that do not change often and takes long time to build (dependency-related codes)
 COPY ./pom.xml /home/app/pom.xml
-COPY ./src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java	/home/app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+COPY ./src/main/java/com/sample/demodocker/DeomDockerApplication.java /home/app/src/main/java/com/sample/demodocker/DeomDockerApplication.java 
 
+# Stage 3. Run build out of the codes that do not change often
 RUN mvn -f /home/app/pom.xml clean package
 
+# If there were no changes in the above 5 layers, they will be reused
+# By doing this, you will need much less time to build later
+
+# Stage 4. Copy the files that change often and build
 COPY . /home/app
 RUN mvn -f /home/app/pom.xml clean package
 
