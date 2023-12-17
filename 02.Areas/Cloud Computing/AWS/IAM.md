@@ -5,7 +5,6 @@
 	* Root User 
 		* **Should not be used for main activities**
 ## Best Practices
-https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-### 1. Require human users to use temporary credentials when accessing AWS
-* Human users should be provided federated access via identity provider
-	* Identity Federation : Identity Provider(IdP) provides authentication for user to a Service Provider(SP)
+* Manage IAM accounts' Authorities with IAM User Groups*
+* official docs best practice guide
+	* https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html

@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Cloud Computing/AWS/IAM.md",
+                "file": "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Cloud Computing/AWS/IAM.md",
+                "file": "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Areas/Cloud Computing/AWS/IAM.md",
+                "file": "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Areas/Cloud Computing/AWS/IAM.md"
+                "file": "02.Areas/Cloud Computing/AWS/Regions and Zones.md"
               }
             }
           }
@@ -230,6 +230,7 @@
   "active": "f2098d1fd480e24e",
   "lastOpenFiles": [
     "02.Areas/Cloud Computing/AWS/AWS.md",
+    "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
     "02.Areas/Cloud Computing/AWS/IAM.md",
     "02.Areas/Cloud Computing/Cloud Computing.md",
     "02.Areas/Docker/Create a Spring Boot Docker Image.md",
@@ -266,7 +267,6 @@
     "03.Resources/Secure Coding/10. 접근제어.md",
     "03.Resources/Secure Coding/08.Session.md",
     "03.Resources/Secure Coding/07. Cookie.md",
-    "03.Resources/Secure Coding/06. 파일 다운로드.md",
     "02.Areas/Python"
   ]
 }
