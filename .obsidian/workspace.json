@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f81ec7c87db2afa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -138,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b339944d809f6e2",
+  "active": "f81ec7c87db2afa6",
   "lastOpenFiles": [
+    "새 텍스트 문서.txt",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "03.Resources/Secure Coding/Pasted image 20231110170527.png",
     "03.Resources/Secure Coding/Pasted image 20231109172421.png",
@@ -169,8 +188,6 @@
     "02.Areas/Python/List.md",
     "02.Areas/Master Spring & Spring Boot/Spring AOP.md",
     "02.Areas/Master Spring & Spring Boot/pom.xml.md",
-    "02.Areas/Master Spring & Spring Boot/Maven.md",
-    "02.Areas/Master Spring & Spring Boot/Gradle.md",
     "02.Areas/Cloud Computing/AWS",
     "02.Areas/Python",
     "02.Areas/Master Spring & Spring Boot",
