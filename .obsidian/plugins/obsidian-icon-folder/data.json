@@ -30,6 +30,7 @@
     "iconName": null,
     "inheritanceIcon": "FasUnlockKeyhole"
   },
+<<<<<<< .merge_file_a04936
   "02.Areas/Master Spring & Spring Boot": "SiSpring",
   "02.Areas/Master Spring & Spring Boot/Spring AOP.md": {
     "iconName": null,
@@ -40,4 +41,16 @@
   "02.Areas/Docker": "SiDocker",
   "02.Areas/Cloud Computing": "FasCloud",
   "02.Areas/Cloud Computing/AWS": "SiAmazonaws"
+=======
+  "03.Resources/Secure Coding": "FasUnlockKeyhole",
+  "03.Resources/Python": "SiPython",
+  "03.Resources/Master Spring & Spring Boot": "SiSpring",
+  "03.Resources/Master Spring & Spring Boot/Spring AOP.md": {
+    "iconName": null,
+    "inheritanceIcon": "SiSpring"
+  },
+  "03.Resources/Cloud Computing": "FasCloud",
+  "03.Resources/Cloud Computing/AWS": "SiAmazonaws",
+  "03.Resources/Docker": "SiDocker"
+>>>>>>> .merge_file_a17284
 }

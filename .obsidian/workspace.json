@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f81ec7c87db2afa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,49 +138,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f81ec7c87db2afa6",
+  "active": "8b339944d809f6e2",
   "lastOpenFiles": [
-    "새 텍스트 문서.txt",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "03.Resources/Secure Coding/Pasted image 20231110170527.png",
-    "03.Resources/Secure Coding/Pasted image 20231109172421.png",
-    "03.Resources/Secure Coding/13. 웹 서버 보안 설정.md",
-    "03.Resources/Secure Coding/Pasted image 20231109172340.png",
-    "03.Resources/Secure Coding/12. InSecure Coding Style.md",
-    "03.Resources/Secure Coding/11. 중요정보 관리.md",
-    "03.Resources/Secure Coding/10. 접근제어.md",
-    "03.Resources/Secure Coding/09. 계정관리 및 인증관리.md",
-    "03.Resources/Secure Coding/08.Session.md",
-    "03.Resources/Secure Coding/06. 파일 다운로드.md",
-    "03.Resources/Secure Coding/07. Cookie.md",
-    "03.Resources/Secure Coding/05. 파일 업로드.md",
-    "03.Resources/Secure Coding/04. CSRF(Cross-Site Request Forgery).md",
-    "03.Resources/Secure Coding/03. XSS(Cross-Site Scripting).md",
-    "03.Resources/Secure Coding/02 .Injection.md",
-    "03.Resources/Secure Coding/01. SW 개발 보안 방법론.md",
-    "03.Resources/Secure Coding/00.보안 취약점 및 사례.md",
-    "03.Resources/Secure Coding",
-    "03.Resources",
-    "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
-    "02.Areas/Cloud Computing/AWS/IAM.md",
-    "02.Areas/Cloud Computing/AWS/AWS.md",
     "02.Areas/Python/Tuple.md",
     "02.Areas/Python/Set.md",
-    "02.Areas/Python/Python basics.md",
     "02.Areas/Python/List.md",
+    "02.Areas/Python/Python basics.md",
+    "02.Areas/Python",
     "02.Areas/Master Spring & Spring Boot/Spring AOP.md",
     "02.Areas/Master Spring & Spring Boot/pom.xml.md",
-    "02.Areas/Cloud Computing/AWS",
-    "02.Areas/Python",
+    "02.Areas/Master Spring & Spring Boot/Maven.md",
+    "02.Areas/Master Spring & Spring Boot/Gradle.md",
+    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "02.Areas/Master Spring & Spring Boot",
+    "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
+    "02.Areas/Cloud Computing/AWS/IAM.md",
+    "02.Areas/Docker/Docker X Spring Boot.md",
+    "02.Areas/Docker/Docker Terminology.md",
+    "02.Areas/Docker/Docker Basic Commands.md",
+    "02.Areas/Docker/Create a Spring Boot Docker Image.md",
+    "02.Areas/Cloud Computing/AWS",
     "02.Areas/Docker",
     "02.Areas/Cloud Computing",
     "02.Areas",
+    "conflict-files-obsidian-git.md",
+    "03.Resources/Python/Tuple.md",
+    "03.Resources/Python/Set.md",
+    "03.Resources/Python/List.md",
+    "03.Resources/Python/Python basics.md",
+    "03.Resources/Python",
+    "03.Resources/Master Spring & Spring Boot/Spring AOP.md",
+    "03.Resources/Master Spring & Spring Boot/pom.xml.md",
+    "03.Resources/Master Spring & Spring Boot/Maven.md",
+    "03.Resources/Master Spring & Spring Boot/Gradle.md",
+    "03.Resources/Master Spring & Spring Boot/Building Web Project.md",
+    "03.Resources/Master Spring & Spring Boot",
+    "03.Resources/Docker/Docker.md",
+    "03.Resources/Docker",
+    "03.Resources/Cloud Computing/AWS",
+    "03.Resources/Secure Coding/Pasted image 20231110170527.png",
+    "03.Resources/Secure Coding/Pasted image 20231109172421.png",
+    "03.Resources/Secure Coding/Pasted image 20231109172340.png",
     "Secure Coding/Pasted image 20231110170527.png",
     "Secure Coding/Pasted image 20231109172421.png",
-    "Secure Coding/Pasted image 20231109172340.png",
-    "Python",
-    "Master Spring & Spring Boot"
+    "Secure Coding/Pasted image 20231109172340.png"
   ]
 }

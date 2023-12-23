@@ -1,7 +1,11 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+<<<<<<< .merge_file_a18696
   "autoSaveInterval": 10,
+=======
+  "autoSaveInterval": 0,
+>>>>>>> .merge_file_a15984
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
