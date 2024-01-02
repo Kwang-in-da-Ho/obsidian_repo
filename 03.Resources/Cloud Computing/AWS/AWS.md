@@ -18,5 +18,5 @@
 | [[ECS(Elastic Container Service]]                           | Run containers in EC2 based ECS clusters                | Simplify managing Microservices with Docker containers          |
 | [[Amazon EKS]]                                              | Run and Scale k8s clusters                              |                                                                 |
 | [[AWS Fargate]]                                             | Serverless version of ECS and EKS                       |                                                                 |
-|                                                             |                                                         |                                                                 |
+| [[AWS Lambda]]                                              | Serverless                                                        |                                                                 |
 
