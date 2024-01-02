@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ecaa31877d421b82",
+        "id": "36cb0cca2eec982e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b339944d809f6e2",
+            "id": "ebdac1b40c4af0ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe7bbce029b81a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4b4f3fef12d04ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +149,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "03.Resources/Cloud Computing/AWS/AWS Lambda.md"
+              }
+            }
+          },
+          {
+            "id": "6804ed9d333ff12a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,15 +176,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b339944d809f6e2",
+  "active": "fe7bbce029b81a02",
   "lastOpenFiles": [
-    "02.Areas/Python/Tuple.md",
-    "02.Areas/Python/Set.md",
+    "03.Resources/Cloud Computing/AWS/EC2(Elastic Compute Cloud).md",
+    "03.Resources/Cloud Computing/AWS/Lauch EC2 Web Server.md",
+    "03.Resources/Cloud Computing/AWS/Elastic BeanStalk.md",
+    "03.Resources/Cloud Computing/AWS/AWS.md",
+    "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
+    "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
+    "03.Resources/Cloud Computing/AWS/IAM.md",
+    "03.Resources/Cloud Computing/Cloud Computing.md",
     "02.Areas/Python/List.md",
     "02.Areas/Python/Python basics.md",
+    "02.Areas/Python/Set.md",
+    "02.Areas/Python/Tuple.md",
+    "Untitled.md",
     "02.Areas/Python",
     "02.Areas/Master Spring & Spring Boot/Spring AOP.md",
     "02.Areas/Master Spring & Spring Boot/pom.xml.md",
@@ -151,36 +202,24 @@
     "02.Areas/Master Spring & Spring Boot/Gradle.md",
     "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
     "02.Areas/Master Spring & Spring Boot",
-    "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
-    "02.Areas/Cloud Computing/AWS/IAM.md",
     "02.Areas/Docker/Docker X Spring Boot.md",
     "02.Areas/Docker/Docker Terminology.md",
     "02.Areas/Docker/Docker Basic Commands.md",
     "02.Areas/Docker/Create a Spring Boot Docker Image.md",
-    "02.Areas/Cloud Computing/AWS",
     "02.Areas/Docker",
+    "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
+    "02.Areas/Cloud Computing/AWS/IAM.md",
+    "02.Areas/Cloud Computing/AWS",
     "02.Areas/Cloud Computing",
-    "02.Areas",
-    "conflict-files-obsidian-git.md",
-    "03.Resources/Python/Tuple.md",
-    "03.Resources/Python/Set.md",
-    "03.Resources/Python/List.md",
-    "03.Resources/Python/Python basics.md",
-    "03.Resources/Python",
-    "03.Resources/Master Spring & Spring Boot/Spring AOP.md",
-    "03.Resources/Master Spring & Spring Boot/pom.xml.md",
-    "03.Resources/Master Spring & Spring Boot/Maven.md",
-    "03.Resources/Master Spring & Spring Boot/Gradle.md",
+    "03.Resources/Docker/Docker X Spring Boot.md",
     "03.Resources/Master Spring & Spring Boot/Building Web Project.md",
-    "03.Resources/Master Spring & Spring Boot",
-    "03.Resources/Docker/Docker.md",
-    "03.Resources/Docker",
     "03.Resources/Cloud Computing/AWS",
-    "03.Resources/Secure Coding/Pasted image 20231110170527.png",
-    "03.Resources/Secure Coding/Pasted image 20231109172421.png",
+    "03.Resources/Cloud Computing",
+    "03.Resources/Object-Oriented Programming",
+    "03.Resources/Docker",
+    "01.Projects/이직하기",
     "03.Resources/Secure Coding/Pasted image 20231109172340.png",
-    "Secure Coding/Pasted image 20231110170527.png",
-    "Secure Coding/Pasted image 20231109172421.png",
-    "Secure Coding/Pasted image 20231109172340.png"
+    "03.Resources/Secure Coding/Pasted image 20231109172421.png",
+    "03.Resources/Secure Coding/Pasted image 20231110170527.png"
   ]
 }
