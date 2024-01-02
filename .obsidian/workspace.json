@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/AWS.md",
+                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/AWS.md",
+                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/AWS.md"
+                "file": "03.Resources/Cloud Computing/Cloud Computing.md"
               }
             }
           },
@@ -180,15 +179,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe7bbce029b81a02",
+  "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
-    "03.Resources/Cloud Computing/AWS/AWS Fargate.md",
     "03.Resources/Cloud Computing/AWS/AWS.md",
+    "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
+    "03.Resources/Cloud Computing/AWS/AWS Fargate.md",
     "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
     "03.Resources/Cloud Computing/AWS/EC2(Elastic Compute Cloud).md",
     "03.Resources/Cloud Computing/AWS/ECS(Elastic Container Service.md",
     "03.Resources/Cloud Computing/AWS/Elastic BeanStalk.md",
-    "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
     "03.Resources/Cloud Computing/Cloud Computing.md",
     "03.Resources/Cloud Computing/AWS/Amazon EKS.md",
     "03.Resources/Cloud Computing/AWS/IAM.md",
