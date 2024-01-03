@@ -23,9 +23,11 @@
             "id": "d0d2d710dccb4c2d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
+                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
+                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md"
+                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md"
               }
             }
           },
@@ -192,6 +194,7 @@
   },
   "active": "d0d2d710dccb4c2d",
   "lastOpenFiles": [
+    "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
     "03.Resources/Cloud Computing/AWS/AWS.md",
     "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
     "03.Resources/Cloud Computing/AWS/AWS Fargate.md",
@@ -220,7 +223,6 @@
     "02.Areas/Docker/Docker Basic Commands.md",
     "02.Areas/Docker/Create a Spring Boot Docker Image.md",
     "02.Areas/Docker",
-    "02.Areas/Cloud Computing/AWS/Regions and Zones.md",
     "02.Areas/Cloud Computing/AWS",
     "02.Areas/Cloud Computing",
     "03.Resources/Cloud Computing/AWS",
