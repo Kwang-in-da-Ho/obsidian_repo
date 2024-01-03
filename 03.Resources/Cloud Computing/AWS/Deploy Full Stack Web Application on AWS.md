@@ -38,11 +38,15 @@ public class SpringSecurityConfiguration {
 ```
 * Make sure the correct CORS policy is set for Front-end app API call*
 ## Steps
-### Deploy backend
+### 1. Deploy backend
 1. Create [[Elastic BeanStalk]] application and environment
 2. When creating application, in **Application Code** section, choose *Upload your code*
 3. Select your packaged `.jar` of your REST API server and upload
-### Set RDB
+###  2. Create RDB
 1. Choose `Configure more options` at the bottom of Create new application page
 2. Click Edit at the **Database** tab
 3. Choose the desired database type and type in basic credential info
+### 3. Deploy Frontend
+1. run `npm run build` on your front-end React project
+	* in the `/build` dire*
+2. 
