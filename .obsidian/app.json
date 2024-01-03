@@ -1,11 +1,1 @@
-{
-  "showInlineTitle": true,
-  "vimMode": true,
-  "spellcheck": false,
-<<<<<<< .merge_file_a11556
-  "promptDelete": false
-=======
-  "promptDelete": false,
-  "alwaysUpdateLinks": true
->>>>>>> .merge_file_a05716
-}
+{}

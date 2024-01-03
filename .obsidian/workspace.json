@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d0d2d710dccb4c2d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "fe7bbce029b81a02",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebdac1b40c4af0ca",
+  "active": "d0d2d710dccb4c2d",
   "lastOpenFiles": [
     "03.Resources/Cloud Computing/AWS/AWS.md",
     "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
