@@ -48,5 +48,23 @@ public class SpringSecurityConfiguration {
 3. Choose the desired database type and type in basic credential info
 ### 3. Deploy Frontend
 1. run `npm run build` on your front-end React project
-	* in the `/build` dire*
-2. 
+	* The project is packaged in a deployable format in `/build` directory
+2. Create an AWS S3 bucket
+	* The bucket should be allowed public access
+3. Upload everything in `/build` directory to S3 bucket
+4. Set *Static Website Hosting* setting in S3 bucket to *Enable*
+5. Modify bucket policy for public access
+```javascript
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AddPerm",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+        }
+    ]
+}
+```
