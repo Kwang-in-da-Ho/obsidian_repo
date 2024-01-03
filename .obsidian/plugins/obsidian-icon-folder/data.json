@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpring",
       "SiAmazonaws",
       "FasCloud",
       "SiDocker",
-      "SiPython",
-      "FasUnlockKeyhole"
+      "SiPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   },
   "03.Resources/Cloud Computing": "FasCloud",
   "03.Resources/Cloud Computing/AWS": "SiAmazonaws",
-  "03.Resources/Docker": "SiDocker"
+  "03.Resources/Docker": "SiDocker",
+  "03.Resources/Master Spring & Spring Boot": "SiSpring"
 }

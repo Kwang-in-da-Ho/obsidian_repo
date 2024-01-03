@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
+                "file": "03.Resources/Docker/Container.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
+                "file": "03.Resources/Docker/Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
+                "file": "03.Resources/Docker/Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md"
+                "file": "03.Resources/Docker/Container.md"
               }
             }
           },
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,34 +195,35 @@
   },
   "active": "d0d2d710dccb4c2d",
   "lastOpenFiles": [
-    "03.Resources/Cloud Computing/AWS/Elastic BeanStalk.md",
-    "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
+    "03.Resources/Docker/Docker.md",
+    "03.Resources/Docker/Container.md",
+    "03.Resources/Docker/Container Orchestration.md",
+    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
+    "03.Resources/Docker/Docker Basic Commands.md",
     "03.Resources/Cloud Computing/AWS/AWS.md",
+    "03.Resources/Cloud Computing/Cloud Computing.md",
+    "03.Resources/Cloud Computing/Untitled",
+    "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
+    "02.Areas/Cloud Computing/AWS/IAM.md",
+    "03.Resources/Cloud Computing/AWS/Elastic BeanStalk.md",
     "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
     "03.Resources/Cloud Computing/AWS/AWS Fargate.md",
     "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
     "03.Resources/Cloud Computing/AWS/EC2(Elastic Compute Cloud).md",
     "03.Resources/Cloud Computing/AWS/ECS(Elastic Container Service.md",
-    "03.Resources/Cloud Computing/Cloud Computing.md",
     "03.Resources/Cloud Computing/AWS/Amazon EKS.md",
     "03.Resources/Cloud Computing/AWS/IAM.md",
     "03.Resources/Cloud Computing/AWS/Lauch EC2 Web Server.md",
-    "02.Areas/Python/List.md",
-    "02.Areas/Python/Python basics.md",
-    "02.Areas/Python/Set.md",
-    "02.Areas/Python/Tuple.md",
+    "03.Resources/Python/List.md",
+    "03.Resources/Python/Python basics.md",
+    "03.Resources/Python/Set.md",
+    "03.Resources/Python/Tuple.md",
     "Untitled.md",
-    "02.Areas/Python",
-    "02.Areas/Master Spring & Spring Boot/Spring AOP.md",
-    "02.Areas/Master Spring & Spring Boot/pom.xml.md",
-    "02.Areas/Master Spring & Spring Boot/Maven.md",
-    "02.Areas/Master Spring & Spring Boot/Gradle.md",
-    "02.Areas/Master Spring & Spring Boot/Building Web Project.md",
-    "02.Areas/Master Spring & Spring Boot",
-    "02.Areas/Docker/Docker X Spring Boot.md",
-    "02.Areas/Docker/Docker Terminology.md",
-    "02.Areas/Docker/Docker Basic Commands.md",
-    "02.Areas/Docker/Create a Spring Boot Docker Image.md",
+    "03.Resources/Python",
+    "03.Resources/Master Spring & Spring Boot/Spring AOP.md",
+    "03.Resources/Master Spring & Spring Boot/pom.xml.md",
+    "03.Resources/Master Spring & Spring Boot/Maven.md",
+    "03.Resources/Master Spring & Spring Boot",
     "02.Areas/Docker",
     "02.Areas/Cloud Computing/AWS",
     "02.Areas/Cloud Computing",
@@ -229,7 +231,6 @@
     "03.Resources/Cloud Computing",
     "03.Resources/Object-Oriented Programming",
     "03.Resources/Docker",
-    "01.Projects/이직하기",
     "03.Resources/Secure Coding/Pasted image 20231109172340.png",
     "03.Resources/Secure Coding/Pasted image 20231109172421.png",
     "03.Resources/Secure Coding/Pasted image 20231110170527.png"
