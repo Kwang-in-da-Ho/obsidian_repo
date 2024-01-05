@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTypescript",
       "SiSpring",
       "SiAmazonaws",
       "FasCloud",
-      "SiDocker",
-      "SiPython"
+      "SiDocker"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,6 @@
     "inheritanceIcon": "FasUnlockKeyhole"
   },
   "03.Resources/Secure Coding": "FasUnlockKeyhole",
-  "03.Resources/Python": "SiPython",
   "03.Resources/Master Spring & Spring Boot/Spring AOP.md": {
     "iconName": null,
     "inheritanceIcon": "SiSpring"
@@ -39,5 +38,7 @@
   "03.Resources/Cloud Computing": "FasCloud",
   "03.Resources/Cloud Computing/AWS": "SiAmazonaws",
   "03.Resources/Docker": "SiDocker",
-  "03.Resources/Master Spring & Spring Boot": "SiSpring"
+  "03.Resources/Master Spring & Spring Boot": "SiSpring",
+  "03.Resources/Languages/Python": "SiPython",
+  "03.Resources/Languages/Typescript": "SiTypescript"
 }

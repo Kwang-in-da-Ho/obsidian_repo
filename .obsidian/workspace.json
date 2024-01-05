@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
+                "file": "03.Resources/Languages/Typescript/I. Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
+                "file": "03.Resources/Languages/Typescript/I. Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md",
+                "file": "03.Resources/Languages/Typescript/I. Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Cloud Computing/Cloud Computing.md"
+                "file": "03.Resources/Languages/Typescript/I. Basics.md"
               }
             }
           },
@@ -170,10 +170,13 @@
   },
   "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
+    "03.Resources/Cloud Computing/Cloud Computing.md",
+    "03.Resources/Languages/Typescript/I. Basics.md",
+    "03.Resources/Languages/Typescript",
+    "03.Resources/Languages",
     "03.Resources/Cloud Computing/AWS/AWS.md",
     "03.Resources/Docker/Docker.md",
     "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
-    "03.Resources/Cloud Computing/Cloud Computing.md",
     "03.Resources/Docker/Container.md",
     "03.Resources/CS Basics/Data Structure",
     "03.Resources/CS Basics",
@@ -192,19 +195,17 @@
     "03.Resources/Cloud Computing/AWS/Amazon EKS.md",
     "03.Resources/Cloud Computing/AWS/IAM.md",
     "03.Resources/Cloud Computing/AWS/Lauch EC2 Web Server.md",
-    "03.Resources/Python/List.md",
-    "03.Resources/Python/Python basics.md",
-    "03.Resources/Python/Set.md",
-    "03.Resources/Python/Tuple.md",
+    "03.Resources/Languages/Python/List.md",
+    "03.Resources/Languages/Python/Python basics.md",
+    "03.Resources/Languages/Python/Set.md",
+    "03.Resources/Languages/Python/Tuple.md",
     "Untitled.md",
-    "03.Resources/Python",
+    "03.Resources/Languages/Python",
     "03.Resources/Master Spring & Spring Boot/Spring AOP.md",
     "03.Resources/Master Spring & Spring Boot/pom.xml.md",
     "03.Resources/Master Spring & Spring Boot",
     "02.Areas/Docker",
     "02.Areas/Cloud Computing/AWS",
-    "02.Areas/Cloud Computing",
-    "03.Resources/Cloud Computing/AWS",
     "03.Resources/Secure Coding/Pasted image 20231109172340.png",
     "03.Resources/Secure Coding/Pasted image 20231109172421.png",
     "03.Resources/Secure Coding/Pasted image 20231110170527.png"
