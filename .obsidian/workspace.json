@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "17998d0745393e4a",
@@ -169,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab20ebe93e4f0d19",
+  "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
     "03.Resources/Cloud Computing/Cloud Computing.md",
     "03.Resources/Languages/Typescript/I. Basics.md",
