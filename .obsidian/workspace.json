@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "36cb0cca2eec982e",
+        "id": "94c2eade8ac6f71f",
         "type": "tabs",
         "children": [
           {
@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/Languages/Typescript/I. Basics.md",
-                "mode": "source",
+                "file": "03.Resources/Docker/Container.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Languages/Typescript/I. Basics.md",
+                "file": "03.Resources/Docker/Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Languages/Typescript/I. Basics.md",
+                "file": "03.Resources/Docker/Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Languages/Typescript/I. Basics.md"
+                "file": "03.Resources/Docker/Container.md"
               }
             }
           },
@@ -170,8 +171,12 @@
   },
   "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
-    "03.Resources/Cloud Computing/Cloud Computing.md",
+    "03.Resources/Languages/Python/List.md",
+    "03.Resources/Languages/Python/Python basics.md",
+    "03.Resources/Languages/Python/Tuple.md",
     "03.Resources/Languages/Typescript/I. Basics.md",
+    "03.Resources/Languages/Python/Set.md",
+    "03.Resources/Cloud Computing/Cloud Computing.md",
     "03.Resources/Languages/Typescript",
     "03.Resources/Languages",
     "03.Resources/Cloud Computing/AWS/AWS.md",
@@ -195,10 +200,6 @@
     "03.Resources/Cloud Computing/AWS/Amazon EKS.md",
     "03.Resources/Cloud Computing/AWS/IAM.md",
     "03.Resources/Cloud Computing/AWS/Lauch EC2 Web Server.md",
-    "03.Resources/Languages/Python/List.md",
-    "03.Resources/Languages/Python/Python basics.md",
-    "03.Resources/Languages/Python/Set.md",
-    "03.Resources/Languages/Python/Tuple.md",
     "Untitled.md",
     "03.Resources/Languages/Python",
     "03.Resources/Master Spring & Spring Boot/Spring AOP.md",
