@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03.Resources/Docker/Create a Spring Boot Docker Image.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -170,6 +170,8 @@
   },
   "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
+    "03.Resources/Docker/Dockerfile.md",
+    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
     "03.Resources/Docker/Container Orchestration.md",
     "03.Resources/Docker/Container.md",
     "03.Resources/Languages/Python/List.md",
@@ -186,7 +188,6 @@
     "03.Resources/CS Basics/Data Structure",
     "03.Resources/CS Basics",
     "03.Resources/CS Basics/Algorithm",
-    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
     "03.Resources/Docker/Docker Basic Commands.md",
     "03.Resources/Cloud Computing/Untitled",
     "03.Resources/Cloud Computing/AWS/Deploy Full Stack Web Application on AWS.md",
@@ -202,7 +203,6 @@
     "Untitled.md",
     "03.Resources/Languages/Python",
     "03.Resources/Master Spring & Spring Boot/Spring AOP.md",
-    "03.Resources/Master Spring & Spring Boot/pom.xml.md",
     "03.Resources/Master Spring & Spring Boot",
     "02.Areas/Docker",
     "02.Areas/Cloud Computing/AWS",

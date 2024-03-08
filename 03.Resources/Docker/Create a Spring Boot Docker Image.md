@@ -2,7 +2,7 @@
 * Building app on your local machine and copying it into a docker image is **Not Recommended**.
 	* Output may be different depending on your environment
 * Entire Build process should happen in the image build
-* In multistage build, for base images in FROM clause, use separate images for each stage that serve different purposes
+* In multistage build, for base images in `FROM` clause, use separate images for each stage that serve different purposes
 
 ### Docker Build Layer
 * Docker caches every layer (command in Dockerfile) and tries to reuse it
@@ -15,7 +15,9 @@
 * 
 ```Dockerfile
 # Stage 1. All the important things that do not change and are reused througut build process
+# 1-1. set base image
 FROM maven:3.8.6-openjdk-18-slim AS build
+# 1-2. All subsequent commands should be run under this directory
 WORKDIR /home/app
 
 # Stage 2. Copy the files that do not change often and takes long time to build (dependency-related codes)
