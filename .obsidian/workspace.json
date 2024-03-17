@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/Kotlin&SpringBoot/Untitled.md",
+                "file": "03.Resources/CS Basics/Network/What happens when you type in 'google.com' in your browser.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Kotlin&SpringBoot/Untitled.md",
+                "file": "03.Resources/CS Basics/Network/What happens when you type in 'google.com' in your browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Kotlin&SpringBoot/Untitled.md",
+                "file": "03.Resources/CS Basics/Network/What happens when you type in 'google.com' in your browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Kotlin&SpringBoot/Untitled.md"
+                "file": "03.Resources/CS Basics/Network/What happens when you type in 'google.com' in your browser.md"
               }
             }
           },
@@ -181,10 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d26a7428c239217e",
+  "active": "ab20ebe93e4f0d19",
   "lastOpenFiles": [
-    "README.md",
+    "03.Resources/CS Basics/Network/HTTP Request to a Spring Boot server.md",
+    "03.Resources/CS Basics/Network/What happens when you type in 'google.com' in your browser.md",
     "03.Resources/Kotlin&SpringBoot/Untitled.md",
+    "03.Resources/CS Basics/Network",
+    "03.Resources/CS Basics/Untitled.canvas",
+    "README.md",
     "03.Resources/Kotlin&SpringBoot",
     "03.Resources/Docker/Dockerfile.md",
     "03.Resources/Docker/Create a Spring Boot Docker Image.md",
@@ -214,11 +218,8 @@
     "03.Resources/Cloud Computing/AWS/EC2(Elastic Compute Cloud).md",
     "03.Resources/Cloud Computing/AWS/ECS(Elastic Container Service.md",
     "03.Resources/Cloud Computing/AWS/Amazon EKS.md",
-    "03.Resources/Cloud Computing/AWS/IAM.md",
-    "03.Resources/Cloud Computing/AWS/Lauch EC2 Web Server.md",
     "03.Resources/Languages/Python",
     "03.Resources/Master Spring & Spring Boot",
-    "02.Areas/Docker",
     "03.Resources/Secure Coding/Pasted image 20231109172340.png",
     "03.Resources/Secure Coding/Pasted image 20231109172421.png",
     "03.Resources/Secure Coding/Pasted image 20231110170527.png"
