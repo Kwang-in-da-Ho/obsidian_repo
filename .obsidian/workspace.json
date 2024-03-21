@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "d83d850101ee8750",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "d0d2d710dccb4c2d",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d26a7428c239217e",
+  "active": "d83d850101ee8750",
   "lastOpenFiles": [
     "03.Resources/Kotlin&SpringBoot/Testing Spring Boot with JUnit 5.md",
     "03.Resources/항해플러스 사전과제.md",
