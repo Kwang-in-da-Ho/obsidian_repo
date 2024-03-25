@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eadfc2c42a17f109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Resources/항해플러스 사전과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24e3628e2ee4e0fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Resources/항해플러스 2주차 멘토링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "17998d0745393e4a",
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/항해플러스 사전과제.md",
+                "file": "03.Resources/항해플러스 2주차 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/항해플러스 사전과제.md",
+                "file": "03.Resources/항해플러스 2주차 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/항해플러스 사전과제.md"
+                "file": "03.Resources/항해플러스 2주차 멘토링.md"
               }
             }
           },
@@ -163,12 +188,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d26a7428c239217e",
+  "active": "24e3628e2ee4e0fb",
   "lastOpenFiles": [
-    "03.Resources/Kotlin&SpringBoot/Testing Spring Boot with JUnit 5.md",
     "03.Resources/항해플러스 사전과제.md",
+    "03.Resources/항해플러스 2주차 멘토링.md",
+    "03.Resources/Kotlin&SpringBoot/Testing Spring Boot with JUnit 5.md",
     "Pasted image 20240318010610.png",
     "Pasted image 20240318010559.png",
     "03.Resources/CS Basics/Network/What happens when you type in 'google.com' in your browser.md",
@@ -219,7 +244,6 @@
     "03.Resources/Cloud Computing/AWS/AWS Fargate.md",
     "03.Resources/Cloud Computing/AWS/AWS Lambda.md",
     "03.Resources/Cloud Computing/AWS/EC2(Elastic Compute Cloud).md",
-    "03.Resources/Cloud Computing/AWS/ECS(Elastic Container Service.md",
     "03.Resources/Languages/Python",
     "03.Resources/Master Spring & Spring Boot",
     "03.Resources/Secure Coding/Pasted image 20231109172340.png",
