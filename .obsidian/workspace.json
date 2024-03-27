@@ -13,74 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/Docker/Create a Spring Boot Docker Image.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d26a7428c239217e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0d2d710dccb4c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Resources/Cloud Computing/AWS/AWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eadfc2c42a17f109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24e3628e2ee4e0fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7c67a1f8ad3d875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/Docker/Create a Spring Boot Docker Image.md",
+                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/Docker/Create a Spring Boot Docker Image.md",
+                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/Docker/Create a Spring Boot Docker Image.md"
+                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md"
               }
             }
           },
@@ -218,9 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8c70e642cc42fd5",
+  "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
+    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
     "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
+    "03.Resources/Cloud Computing/AWS/AWS.md",
     "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
     "Pasted image 20240318010559.png",
     "Pasted image 20240318010610.png",
@@ -234,7 +174,6 @@
     "README.md",
     "03.Resources/Kotlin&SpringBoot",
     "03.Resources/Docker/Dockerfile.md",
-    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
     "03.Resources/Docker/Container Orchestration.md",
     "03.Resources/Docker/Container.md",
     "03.Resources/Languages/Python/List.md",
@@ -245,7 +184,6 @@
     "03.Resources/Cloud Computing/Cloud Computing.md",
     "03.Resources/Languages/Typescript",
     "03.Resources/Languages",
-    "03.Resources/Cloud Computing/AWS/AWS.md",
     "03.Resources/Docker/Docker.md",
     "03.Resources/Cloud Computing/AWS/Regions and Zones.md",
     "03.Resources/CS Basics/Data Structure",
