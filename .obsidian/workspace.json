@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
+                "file": "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
+                "file": "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
+                "file": "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Resources/항해플러스/항해플러스 1주차 사전과제.md"
+                "file": "03.Resources/항해플러스/항해플러스 2주차 멘토링.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "ebdac1b40c4af0ca",
   "lastOpenFiles": [
-    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
     "03.Resources/항해플러스/항해플러스 1주차 사전과제.md",
+    "03.Resources/Docker/Create a Spring Boot Docker Image.md",
     "03.Resources/Cloud Computing/AWS/AWS.md",
     "03.Resources/항해플러스/항해플러스 2주차 멘토링.md",
     "Pasted image 20240318010559.png",
